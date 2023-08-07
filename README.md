@@ -1,3 +1,3 @@
 # front-end-single-resource-pair
 
-An app about movies by Joanavel & Finesse. ©
+An app about movies by Joanavel & Finesse. 
